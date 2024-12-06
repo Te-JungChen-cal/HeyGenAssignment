@@ -162,7 +162,7 @@ const connectToSSE = () => {
 
 ## System Architecture
 
-![system architecture](images/system_architecture.png)
+![system architecture](system_architecture.png)
 
 ## Integration Test Result
 
