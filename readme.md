@@ -28,7 +28,7 @@ README.md           # This documentation file
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <repository-url>
 ```
 
 ### 2. Create a Virtual Environment
