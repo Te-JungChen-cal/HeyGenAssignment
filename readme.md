@@ -57,7 +57,7 @@ cd backend
 pytest test_integration.py -s
 ```
 
-## Running the Application
+## Run the Application
 
 ### Backend Setup
 
