@@ -1,4 +1,4 @@
-# SSE Job Status Application
+# Job Status Application
 
 ## Prerequisites
 
