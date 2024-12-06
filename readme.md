@@ -1,4 +1,4 @@
-# SSE Job Status Application
+# Job Status Application
 
 ## Prerequisites
 
@@ -28,7 +28,7 @@ README.md           # This documentation file
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <repository-url>
 ```
 
 ### 2. Create a Virtual Environment
@@ -57,7 +57,7 @@ cd backend
 pytest test_integration.py -s
 ```
 
-## Running the Application
+## Run the Application
 
 ### Backend Setup
 
@@ -115,7 +115,7 @@ Messages are sent in SSE format:
 data: {"result": "<status>", "message": "<optional message>"}
 ```
 
-## React Integration Example
+## Client Library API End Point React Integration Example
 
 Here's a sample React code to interact with the client library (full implementation in `frontend/src/App.jsx`):
 
@@ -162,7 +162,7 @@ const connectToSSE = () => {
 
 ## System Architecture
 
-![system architecture](images/system_architecture.png)
+![system architecture](system_architecture.png)
 
 ## Integration Test Result
 
