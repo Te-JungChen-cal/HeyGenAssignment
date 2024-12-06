@@ -115,7 +115,7 @@ Messages are sent in SSE format:
 data: {"result": "<status>", "message": "<optional message>"}
 ```
 
-## React Integration Example
+## Client Library React Integration Example
 
 Here's a sample React code to interact with the client library (full implementation in `frontend/src/App.jsx`):
 
